@@ -8,15 +8,14 @@ A PERN Stack web app to sell used books online with full CRUD
 ***
 ### ***Technologies Used***
 ![PERN](https://imgur.com/S0qNUF3.png)
-    1. HTML5
-    2. CSS
-        *Bootstrap
-    3. JavaScript
-        *React
-        *Node.js
-        *Express
-    4. SQL
-        *Postgres
+- HTML5
+- CSS
+- Bootstrap
+- JavaScript
+- React
+- Node.js
+- Express
+- PostgreSQL
 ***
 ### ***Getting Started***
 TBA
